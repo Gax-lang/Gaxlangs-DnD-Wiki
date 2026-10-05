@@ -5,22 +5,20 @@
 
 # Vítejte v kronikách světů
 
-Vyberte kampaň nebo svět, jehož historii a záznamy chcete prozkoumat:
+Vyberte svět, jehož historii a záznamy chcete prozkoumat:
 
 ---
 
-### ⚔️ [[01 Ocranor\|01 Ocranor]]
-*Svět intrik, Řádu stříbrného štítu a tajemné drogy Arkicit.*
-- **Důležitá místa:** [[01 Ocranor/Místa a Geografie/Velefor\|Velefor]], [[01 Ocranor/Místa a Geografie/Amell\|Amell]]
-- **Klíčové postavy:** [[01 Ocranor/Postavy/Raith\|Raith]]
-- **Kronika:** [[Deník Sezení\|Deník Sezení]]
+###  [[01 Ocranor\|Ocranor]]
+*Svět kde se po staletích vrátila magie, kde Jitřní města - kdysi klenoty civilizace kryje nebezpečná miasma a kde jsou bohové tiší*
+
 
 ---
 
-### 🌌 [[02 Vyrenthia\|02 Vyrenthia]]
-*(Zde brzy přibude popis a rozcestník)*
+###  [[02 Vyrenthia\|Vyrenthia]]
+*(Dlouhé věky mezi sebou válčili síly nebes a pekel přímo na materiální pláni... a nakonec síly nebes zvítězili, přesto se nezdá, že míří Vyrenthia k době trvajícího míru)*
 
 ---
 
-### ⏳ [[03 The Promised End\|03 The Promised End]]
-*(Nová kampaň v přípravě)*
+###  [[03 Shroudvale\|Shroudvale]]
+*(Všechno bylo perfektní v tomto odříznutém kusu reality...Dokud zvědavost nezvítězila a lidé se pokusili sáhnout mimo svůj bezpečný domov a tím na svou existenci upozornili bytosti žijící mezi střepy Starého světa)*
